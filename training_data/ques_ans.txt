@@ -1,0 +1,23 @@
+¿Qué es el coronavirus?
+Los coronavirus son una gran familia de virus que se sabe que causan enfermedades que van desde el resfriado comun hasta enfermedades mas graves como el sindrome respiratorio de Oriente Medio (MERS) y el sindrome respiratorio agudo severo (SARS).
+¿Qué es el nuevo coronavirus?
+Un nuevo coronavirus (CoV) es una nueva cepa de coronavirus que no se ha identificado previamente en humanos.
+¿Pueden los humanos infectarse con un nuevo coronavirus de origen animal?
+Investigaciones detalladas encontraron que el SARS-CoV se transmitio de los gatos algalia a los humanos en China en 2002 y el MERS-CoV de los dromedarios a los humanos en Arabia Saudita en 2012. Varios coronavirus conocidos circulan en animales que aun no han infectado a los humanos. A medida que la vigilancia mejore en todo el mundo, es probable que se identifiquen más coronavirus.
+¿Cuáles son los síntomas de alguien infectado con coronavirus?
+Depende del virus, pero los signos comunes incluyen sintomas respiratorios, fiebre, tos, falta de aire y dificultad para respirar. En casos mas graves, la infeccion puede provocar neumonia, sindrome respiratorio agudo severo, insuficiencia renal e incluso la muerte.
+¿Se pueden transmitir el coronavirus de persona a persona?
+Sí, algunos coronavirus pueden transmitirse de persona a persona, generalmente despues de un contacto cercano con un paciente infectado, por ejemplo, en un lugar de trabajo domestico o en un centro de atencion medica.
+¿Existe una vacuna para el nuevo coronavirus?
+Cuando una enfermedad es nueva, no hay vacuna hasta que se desarrolla una. Pueden pasar varios años hasta que se desarrolle una nueva vacuna.
+¿Existe un tratamiento para el nuevo coronavirus?
+No existe un tratamiento específico para la enfermedad causada por un nuevo coronavirus. Sin embargo, muchos de los sintomas se pueden tratar y, por lo tanto, el tratamiento se basa en la condición clinica del paciente. Además, la atencion de apoyo a las personas infectadas puede ser muy eficaz.
+¿Que puedo hacer para protegerme?
+Las recomendaciones estandar para reducir la exposición y la transmision de una variedad de enfermedades incluyen mantener una higiene respiratoria y de manos basica y practicas alimentarias seguras y evitar el contacto cercano, cuando sea posible, con cualquier persona que muestre sintomas de una enfermedad respiratoria como tos y estornudos.
+¿Estan los trabajadores de la salud en riesgo de un nuevo coronavirus?
+Si, pueden serlo, ya que los trabajadores de la salud entran en contacto con los pacientes con más frecuencia que el publico en general. 
+¿Que recomendaciones de la OMS para los paises?
+La OMS alienta a todos los paises a mejorar su vigilancia de las infecciones respiratorias agudas graves (IRAG), a revisar cuidadosamente cualquier patron inusual de IRAG o casos de neumonia y a notificar a la OMS de cualquier caso presunto o confirmado de infeccion por el nuevo coronavirus.
+Se alienta a los paises a seguir fortaleciendo su preparacion para las emergencias sanitarias de conformidad con el Reglamento Sanitario Internacional (2005).
+¿Donde puedo encontrar mas informacion sobre los coronavirus conocidos?
+Para obtener mas información sobre MERS-CoV <a href="http://www.emro.who.int/health-topics/mers-cov/index.html">here</a>, para obtener mas información sobre el SARS-CoV <a href="https://www.who.int/csr/sars/en/">here</a>.
